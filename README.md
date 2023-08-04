@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon Gómez</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brandongc9911&label=Profile%20views&color=0e75b6&style=flat" alt="brandongc9911" /> </p>
+<h3 align="center">A passionate frontend developer from Reynosa,Tamaulipas,Mexico</h3>
 
 - 🌱 I’m currently learning **ReactJs**
 
@@ -23,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandongc9911&show_icons=true&locale=en" alt="brandongc9911" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brandongc9911&" alt="brandongc9911" /></p>
+
