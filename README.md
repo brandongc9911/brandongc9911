@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandon Gómez</h1>
 <h3 align="center">A passionate frontend developer from Reynosa,Tamaulipas,Mexico</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=L7y9E_bL9Vnf09ws&amp;list=PL3DIVY-hAxSyq-ePNRZE0Jz1VRfwfXWNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### 📹 Playlist MyUnsplash [canal de Youtube](https://youtube.com/playlist?list=PL3DIVY-hAxSyq-ePNRZE0Jz1VRfwfXWNc&si=8C8KhAqShji4Koxp)
 
 - 🌱 I’m currently learning **ReactJs**
 
