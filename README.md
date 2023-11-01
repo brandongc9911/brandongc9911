@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Brandon Gómez</h1>
 <h3 align="center">A passionate frontend developer from Reynosa,Tamaulipas,Mexico</h3>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=L7y9E_bL9Vnf09ws&amp;list=PL3DIVY-hAxSyq-ePNRZE0Jz1VRfwfXWNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 - 🌱 I’m currently learning **ReactJs**
 
 - 📫 How to reach me **brandongc9911@gmail.com**
