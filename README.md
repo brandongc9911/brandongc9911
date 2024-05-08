@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Brandon Gómez</h1>
 <h3 align="center">A passionate frontend developer from Reynosa,Tamaulipas,Mexico</h3>
 
-### 📹 Playlist MyUnsplash 
+### 📹 Playlist MyUnsplash
+<p align="left">Esta es una seríe de videos que estuve trabajando en clase con alumnos de la Universidad Tamaulipeca</p>
 <a href='https://youtube.com/playlist?list=PL3DIVY-hAxSyq-ePNRZE0Jz1VRfwfXWNc&si=8C8KhAqShji4Koxp' target='_blank'>
   <img width='30%' src='https://i.ytimg.com/vi/tmqhkwx6gjk/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYNSATKH8wDw==&rs=AOn4CLDyeKJcx08cx_0-c0ImuVtBg9qCPg' alt='MyUnsplash | devChallenge.io' />
 </a>
